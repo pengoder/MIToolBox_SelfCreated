@@ -2,7 +2,7 @@
 A set of Python packages for data visualization and data model in MI
 
 
--- Data Plotting
--- Data Description
--- Model Selection
--- Model Execution
+  - Data Plotting
+  - Data Description
+  - Model Selection
+  - Model Execution
